@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSCache", "NSCache.csproj", "{71571D7D-51AA-6836-E969-3C99E3055F46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71571D7D-51AA-6836-E969-3C99E3055F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71571D7D-51AA-6836-E969-3C99E3055F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71571D7D-51AA-6836-E969-3C99E3055F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71571D7D-51AA-6836-E969-3C99E3055F46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10A538BC-A450-4D25-A174-555360C01078}
+	EndGlobalSection
+EndGlobal
